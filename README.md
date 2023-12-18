@@ -1,6 +1,8 @@
 <div align="center">
   <br />
+    <a href="https://event-platform-dev.vercel.app/" target="_blank">
       <img src="https://github.com/emredkyc/event_platform/public/assets/images/project-banner.png" alt="Project Banner">
+    </a>
   <br />
 
   <div>
