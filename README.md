@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/emredkyc/event_platform/public/assets/images/project-banner" alt="Project Banner">
+      <img src="https://github.com/emredkyc/event_platform/public/assets/images/project-banner.png" alt="Project Banner">
   <br />
 
   <div>
