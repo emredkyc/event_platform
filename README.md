@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://event-platform-dev.vercel.app/" target="_blank">
-      <img src="https://r.resimlink.com/XwGTLKH60.png" alt="Project Banner">
+      <img src="https://i.ibb.co/hHCRYCS/events.png" alt="events-banner" border="0">
     </a>
   <br />
 
